@@ -1,0 +1,35 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #d93d3d;
+    justify-content: center;
+
+}
+
+.container {
+  text-align: center;
+  background-color: white;
+  align-self: center;
+
+}
+
+.a {
+    color: #d93d3d;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  .container-md {
+    text-align: center;
+    background-color: white;
+    align-self: center;
+  }
+
+  h5{
+    color:#d93d3d
+  }
+
+  
+
+
+
