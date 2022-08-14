@@ -1,4 +1,4 @@
-/*Actions when page is loaded. Page only appears if customer is logged in*/
+
 document.addEventListener("DOMContentLoaded", () => {
     getCarMake();
     getCarType();
